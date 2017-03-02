@@ -1,0 +1,5 @@
+This file speaks on testing and quality standards
+Quality engineering is excellent
+it finds the bugs in the code
+
+
